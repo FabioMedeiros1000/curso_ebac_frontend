@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+.container{
+    max-width: 1280px;
+    width: 100%;
+    margin: 0px auto;
+}
+
+h1{
+    margin-top: 12px;
+    margin-bottom: 20px;
+}
+
+.container form input{
+    display: flex;
+    flex-direction: column;
+    margin-top: 6px;
+    padding: 6px 60px;
+}
+
+.container form button{
+    padding: 12px 120px;
+    margin-top: 12px;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+#validacao{
+    margin-top: 12px;
+    font-size: 20px;
+    display: none;
+}
+
+.error-message{
+    margin-top: 3px;
+    color: red;
+    font-size: 16px;
+    display: none;
+}
+
+#nB.error{
+    outline-color: red;
+    color:red;
+    border-color: red;
+}
