@@ -21,7 +21,7 @@ Para encontrar os exercícios, basta navegar entre as branches disponíveis. Cad
 - Alguns links não são funcionais e estão presentes apenas para fins de demonstração.
 - Detalhes específicos de cada projeto listado abaixo podem ser encontrados nos respectivos READMEs dos repositórios.
 
-## Links dos Repositórios dos Projetos
+## Links dos Repositórios dos Projetos Externos
 
 - [Repositório do Módulo Git e GitHub](https://github.com/FabioMedeiros1000/git_learn)
 - [Repositório do Projeto EBAC Shoes](https://github.com/FabioMedeiros1000/EBAC-Shoes)
