@@ -1,5 +1,21 @@
-#  Sobre o repositório
+# Sobre o Repositório
 
-- Esse repositório é para guardar exercícios desenvolvidos durante o curso de engenheiro de front-end da EBAC
-- Nesse repositório, é possível encontrar várias branchs, cada uma contendo um dos exercícios desenvolvidos durante o curso
-- PS.: Alguns exercicíos foram guardados em outros repositórios, sendo projetos que foram hospedados na vercel
+Este repositório contém os exercícios desenvolvidos durante o curso de Engenheiro de Front-End da EBAC.
+
+## Estrutura do Repositório
+
+- **Branches**: Cada branch deste repositório contém um exercício específico desenvolvido ao longo do curso.
+- **Projetos Externos**: Alguns exercícios estão armazenados em outros repositórios, principalmente projetos hospedados na Vercel.
+
+### Nota
+
+Alguns exercícios podem não estar presentes aqui, pois foram desenvolvidos em projetos separados e hospedados na Vercel.
+
+## Como Navegar
+
+Para encontrar os exercícios, basta navegar entre as branches disponíveis. Cada branch corresponde a um exercício diferente, facilitando a busca e o estudo de cada um.
+
+## Links Úteis
+
+- [Curso de Engenheiro de Front-End - EBAC](https://www.ebaconline.com.br)
+- [Vercel](https://vercel.com)
