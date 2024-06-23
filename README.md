@@ -1,6 +1,9 @@
 # Sobre o Repositório
 
-Este repositório contém os exercícios desenvolvidos durante o curso de Engenheiro de Front-End da EBAC.
+Sou iniciante no front-end e estou atualmente estou fazendo o curso Engenheiro de Front-End na EBAC. Este repositório contém todos os projetos e exercícios que estou desenvolvendo durante o curso.
+
+> Nota: Para concluir cada módulo do curso, é necessário realizar as atividades práticas correspondentes. Todos os módulos incluem atividades práticas como parte do processo de aprendizado.
+
 
 ## Estrutura do Repositório
 
