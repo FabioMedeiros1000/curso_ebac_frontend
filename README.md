@@ -30,6 +30,7 @@ Para encontrar os exercícios, basta navegar entre as branches disponíveis. Cad
 - [Repositório do Projeto Calculadora de Médias](https://github.com/FabioMedeiros1000/calculadora-medias)
 - [Repositório do Projeto Academia da Música](https://github.com/FabioMedeiros1000/academia-da-musica)
 - [Repositório do Projeto Gameshop](https://github.com/FabioMedeiros1000/gamesshop)
+- [Repositório do Projeto Loja Arduíno](https://github.com/FabioMedeiros1000/loja-arduino)
 
 ## Links dos Sites
 
@@ -39,4 +40,5 @@ Para encontrar os exercícios, basta navegar entre as branches disponíveis. Cad
 - [Calculadora de Médias](https://calculadora-medias-nu.vercel.app/)
 - [Academia da Música](https://academia-da-musica.vercel.app/)
 - [Gameshop](https://gamesshop-pi.vercel.app/)
+- [Loja Arduíno](https://fabio-loja-arduino.vercel.app/)
 
