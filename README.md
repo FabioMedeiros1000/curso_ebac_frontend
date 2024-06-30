@@ -32,6 +32,7 @@ Para encontrar os exercícios, basta navegar entre as branches disponíveis. Cad
 - [Repositório do Projeto Gameshop](https://github.com/FabioMedeiros1000/gamesshop)
 - [Repositório do Projeto Loja Arduíno](https://github.com/FabioMedeiros1000/loja-arduino)
 - [Repositório do Projeto Restaurante com bootstrap](https://github.com/FabioMedeiros1000/restaurante-bootstrap)
+- [Repositório do Projeto techbooks](https://github.com/FabioMedeiros1000/techbooks/tree/main)
 
 ## Links dos Sites
 
@@ -42,4 +43,5 @@ Para encontrar os exercícios, basta navegar entre as branches disponíveis. Cad
 - [Academia da Música](https://academia-da-musica.vercel.app/)
 - [Gameshop](https://gamesshop-pi.vercel.app/)
 - [Loja Arduíno](https://fabio-loja-arduino.vercel.app/)
+- [Techbooks](https://fabio-techbooks.vercel.app/)
 - [Restaurante com bootstrap](https://fabio-restaurante-bootstrap.vercel.app/)
