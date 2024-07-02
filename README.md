@@ -2,7 +2,7 @@
 
 Sou iniciante no front-end e estou atualmente estou fazendo o curso Engenheiro de Front-End na EBAC. Este repositório contém todos os projetos e exercícios que estou desenvolvendo durante o curso.
 
-> Nota: Para concluir cada módulo do curso, é necessário realizar as atividades práticas correspondentes. Todos os módulos incluem atividades práticas como parte do processo de aprendizado.
+> Nota: Todos os módulos incluem atividades práticas essenciais para o processo de aprendizado. Para concluir o curso, é necessário realizar todas as atividades práticas e obter um aproveitamento mínimo de 70%.
 
 
 ## Estrutura do Repositório
