@@ -43,5 +43,5 @@ Para encontrar os exercícios, basta navegar entre as branches disponíveis. Cad
 - [Academia da Música](https://academia-da-musica.vercel.app/)
 - [Gameshop](https://gamesshop-pi.vercel.app/)
 - [Loja Arduíno](https://fabio-loja-arduino.vercel.app/)
-- [Techbooks](https://fabio-techbooks.vercel.app/)
 - [Restaurante com bootstrap](https://fabio-restaurante-bootstrap.vercel.app/)
+- [Techbooks](https://fabio-techbooks.vercel.app/)
