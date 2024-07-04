@@ -1,0 +1,32 @@
+@use 'reset';
+@use 'cores';
+
+@mixin corComum(){
+    color: cores.$corTexto;
+}
+
+@mixin pesoComum(){
+    font-weight: bold;
+}
+
+body{
+
+    background-color: cores.$corFundo;
+
+    .container{
+        max-width: 1024px;
+        width: 100%;
+        margin: 0 auto;
+        margin-top: 20px;
+    
+        h1, h2{
+            @include corComum();
+            @include pesoComum();
+        }
+    
+        p{
+            @include corComum();
+            margin-bottom: 12px;
+        }
+    }
+}
