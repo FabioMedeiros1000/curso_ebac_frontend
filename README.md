@@ -1,4 +1,4 @@
-#Objetivos do Exercício
+# Objetivos do Exercício
 
 - Criar um arquivo Gulpfile que deverá executar as tarefas:
   - Compilação do SASS
