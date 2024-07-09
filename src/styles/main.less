@@ -1,0 +1,108 @@
+@corDeFundo: #c7c730cf;
+@corDoTexto: #302727;
+@corDoPlaceholder: #302727a7;
+@corDoTitulo: #ba2d2d;
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: @corDeFundo;
+    color: @corDoTexto;
+    padding: 26px 0;
+}
+
+img{
+    width: 200px;
+}
+
+.container {
+    max-width: 1000px;
+    width: 100%;
+    margin: 0 auto;
+
+    h2, h3{
+        color: @corDoTitulo;
+    }
+
+    header{
+        text-align: center;
+    
+    }
+
+    section{
+        margin-bottom: 16px;
+    }
+
+    .instalacao{
+        margin-left: 20px;
+
+        .instalacao-item{
+            margin-bottom: 8px;
+
+            li{
+                font-weight: bold;
+                color: @corDoTitulo;
+            };
+        }
+    }
+
+    form {
+        margin-top: 15px;
+
+        .form-campos{
+            margin: 8px 0;
+
+            label{
+                color: @corDoTitulo;
+                font-weight: bold;
+            }
+
+            input{
+                display: block;
+                max-width: 750px;
+                width: 100%;
+                padding: 8px;
+                background-color: transparent;
+                border: 2px solid @corDoTexto;
+                color: @corDoTexto;
+                font-size: 1em;
+
+                &::placeholder{
+                    color: @corDoPlaceholder;
+                }
+            }
+        }
+
+        button{
+            margin-top: 8px;
+            padding: 12px 15px;
+            background-color: transparent;
+            color: @corDoTexto;
+            font-size: 1em;
+            border: 2px solid @corDoTexto;
+            font-weight: bold;
+            cursor: pointer;
+
+            &:hover{
+                background-color: @corDoTexto;
+                color: @corDeFundo;
+            }
+        }
+    }
+    #informacoes-incorretas{
+        color: @corDoTitulo;
+        font-weight: bold;
+        p{
+            margin-bottom: 4px;
+            display: none;
+        }
+    }
+}
+
+
+
