@@ -26,6 +26,7 @@ Para encontrar os exercícios, basta navegar entre as branches disponíveis. Cad
 - [Repositório do Módulo Git e GitHub](https://github.com/FabioMedeiros1000/git_learn)
 - [Repositório do Projeto EBAC Shoes](https://github.com/FabioMedeiros1000/EBAC-Shoes)
 - [Repositório do Projeto Galeria de Fotos usando jQuery](https://github.com/FabioMedeiros1000/jQuery-galeria-fotos)
+- [Repositório do Projeto Lista de Tarefas](https://github.com/FabioMedeiros1000/lista-de-tarefas)
 - [Repositório do Projeto Agenda de Contatos](https://github.com/FabioMedeiros1000/agenda-de-contatos)
 - [Repositório do Projeto Calculadora de Médias](https://github.com/FabioMedeiros1000/calculadora-medias)
 - [Repositório do Projeto Academia da Música](https://github.com/FabioMedeiros1000/academia-da-musica)
@@ -38,6 +39,7 @@ Para encontrar os exercícios, basta navegar entre as branches disponíveis. Cad
 
 - [EBAC Shoes](https://fabio-ebac-shoes.vercel.app/)
 - [Galeria de Fotos](https://vercel.com/fabio-leandro-medeiros-projects/fabio-galeria-fotos)
+- [Lista de tarefas](https://fabio-lista-de-tarefas.vercel.app/)
 - [Agenda de Contatos](https://agenda-de-contatos-tan-phi.vercel.app/)
 - [Calculadora de Médias](https://calculadora-medias-nu.vercel.app/)
 - [Academia da Música](https://academia-da-musica.vercel.app/)
