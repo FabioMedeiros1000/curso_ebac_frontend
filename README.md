@@ -21,17 +21,21 @@ Para executar o projeto, siga os passos abaixo:
    > Nota: Certifique-se de ter o Node.js instalado em sua máquina.
 
 2. Instale todas as dependências necessárias do projeto:
-   ```sh
+   ```bash
    npm install
+   ```
 3. Execute o comando para criar arquivos na pasta dev, a pasta de desenvolvimento:
-   ```sh
+   ```bash
    npm run grunt
+   ```
 4. Para cancelar o watch que é executado pelo comando anterior, utilize:
-   ```sh
+   ```bash
    CTRL + C
+   ```
 5. Digite 's' e depois enter para confirmar o cancelamento
 6. Crie a pasta dist, que contém arquivos minificados e prontos para o deploy:
-   ```sh
+   ```bash
    npm run dist
+   ```
 
 Seguindo esses passos, você terá o projeto configurado e pronto para uso.
