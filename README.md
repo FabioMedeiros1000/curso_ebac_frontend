@@ -36,6 +36,7 @@ Para encontrar os exercícios, basta navegar entre as branches disponíveis. Cad
 - [Repositório do Projeto techbooks](https://github.com/FabioMedeiros1000/techbooks/tree/main)
 - [Repositório do Projeto Clone do Disney Plus](https://github.com/FabioMedeiros1000/clone_disneyplus)
 - [Repositório do Projeto Landing page do homem-aranha](https://github.com/FabioMedeiros1000/filmeflix-homem-aranha/tree/main)
+- [Repositório do Projeto Meu Aniversário](https://github.com/FabioMedeiros1000/meu-aniversario/tree/main)
 
 ## Links dos Sites
 
@@ -51,3 +52,4 @@ Para encontrar os exercícios, basta navegar entre as branches disponíveis. Cad
 - [Techbooks](https://fabio-techbooks.vercel.app/)
 - [Clone do Disney Plus](https://clone-disneyplus-two-gamma.vercel.app/)
 - [Landing page do homem-aranha](https://filmeflix-homem-aranha.vercel.app/)
+- [Meu aniversário](https://meu-aniversario-fabio.vercel.app/)
