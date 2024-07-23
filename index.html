@@ -2,27 +2,32 @@
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Lista de tarefas</title>
-    <link rel="stylesheet" href="./main.css">
-
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+    <title>Meu Github</title>
+    <link rel="stylesheet" href="main.css">
 </head>
 <body>
-    <div class="container">
-        <header>
-            <h1>Minha lista de tarefas</h1>
-        </header>
-        <form>
-            <input type="text" placeholder="Nome da tarefa">
-            <button type="submit">Adicionar +</button>
-        </form>
-        <ol>
-        </ol>
-    </div>
-    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <header>
+        <div class="container">
+            <img class="profile-avatar" src="https://via.placeholder.com/180x180" alt=".">
+            <h1 class="profile-name">Fábio Leandro Medeiros</h1>
+            <h2 class="profile-username"></h2>
+            <ul class="numbers">
+                <li class="numbers-item" id="repositorios">
+                    <h4>Repositórios</h4>
+                </li>
+                <li class="numbers-item" id="seguidores">
+                    <h4>Seguidores</h4>
+                </li>
+                <li class="numbers-item" id="seguindo">
+                    <h4>Seguindo</h4>
+                </li>
+            </ul>
+            <a href="#" class="profile-link">Ver no Github</a>
+        </div>
+    </header>
+
     <script src="./main.js"></script>
 </body>
 </html>
