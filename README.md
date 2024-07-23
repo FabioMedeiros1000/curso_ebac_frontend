@@ -35,6 +35,7 @@ Para encontrar os exercícios, basta navegar entre as branches disponíveis. Cad
 - [Repositório do Projeto Restaurante com bootstrap](https://github.com/FabioMedeiros1000/restaurante-bootstrap)
 - [Repositório do Projeto techbooks](https://github.com/FabioMedeiros1000/techbooks/tree/main)
 - [Repositório do Projeto Clone do Disney Plus](https://github.com/FabioMedeiros1000/clone_disneyplus)
+- [Repositório do Projeto Landing page do homem-aranha](https://github.com/FabioMedeiros1000/filmeflix-homem-aranha/tree/main)
 
 ## Links dos Sites
 
@@ -49,3 +50,4 @@ Para encontrar os exercícios, basta navegar entre as branches disponíveis. Cad
 - [Restaurante com bootstrap](https://fabio-restaurante-bootstrap.vercel.app/)
 - [Techbooks](https://fabio-techbooks.vercel.app/)
 - [Clone do Disney Plus](https://clone-disneyplus-two-gamma.vercel.app/)
+- [Landing page do homem-aranha](https://filmeflix-homem-aranha.vercel.app/)
