@@ -18,9 +18,6 @@ Este exercício consiste em fazer requisições AJAX através da API do GitHub p
 ## Instruções
 
 1. **Clone o repositório:**
-    ```bash
-    git clone https://github.com/FabioMedeiros1000/curso_ebac_frontend/tree/exercicio_ajax
-    ```
 
 2. **Navegue até o diretório do projeto:**
     ```bash
