@@ -1,6 +1,6 @@
-# Sistema de Conta Bancária
+# Objetivo do exercício
 
-Este projeto consiste em um sistema de conta bancária que implementa funcionalidades básicas de contas correntes e poupança usando JavaScript.
+O objetivo do exercício é criar uma classe mãe e duas classes filhas que herdam dessa classe mãe. Para isso, idealizei um sistema simples de conta bancária que implementa funcionalidades básicas de contas correntes e poupança, usando JavaScript.
 
 ## Funcionalidades
 
