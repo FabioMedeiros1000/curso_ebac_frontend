@@ -38,6 +38,10 @@ Para encontrar os exercícios, basta navegar entre as branches disponíveis. Cad
 - [Repositório do Projeto Landing page do homem-aranha](https://github.com/FabioMedeiros1000/filmeflix-homem-aranha/tree/main)
 - [Repositório do Projeto Meu Aniversário](https://github.com/FabioMedeiros1000/meu-aniversario/tree/main)
 - [Repositório do Projeto EBAC TECH TALKS](https://github.com/FabioMedeiros1000/ebac_tech_talks/tree/main?tab=readme-ov-file)
+- [Repositório do Projeto Todo-vue](https://github.com/FabioMedeiros1000/todo-vue/tree/main)
+- [Repositório do Projeto Calculadora Simples](https://github.com/FabioMedeiros1000/calculadora-simples?tab=readme-ov-file)
+- [Repositório do Projeto GitHub Repository Viewer](https://github.com/FabioMedeiros1000/github_perfil/tree/main?tab=readme-ov-file)
+- [Repositório do Projeto Calculadora IMC](https://github.com/FabioMedeiros1000/calculadora-imc?tab=readme-ov-file)
 
 ## Links dos Sites
 
@@ -55,3 +59,7 @@ Para encontrar os exercícios, basta navegar entre as branches disponíveis. Cad
 - [Landing page do homem-aranha](https://filmeflix-homem-aranha.vercel.app/)
 - [Meu aniversário](https://meu-aniversario-fabio.vercel.app/)
 - [EBAC TECH TALKS](https://ebac-tech-talks-dusky-phi.vercel.app/)
+- [Todo-vue](https://todo-vue-blue-five.vercel.app/)
+- [Calculadora Simples](https://calculadora-simples-umber.vercel.app/)
+- [GitHub Repository Viewer](https://github-perfil-flm.vercel.app/)
+- [Calculadora IMC](https://calculadora-imc-flm.vercel.app/)
