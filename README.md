@@ -31,7 +31,7 @@ Siga os passos abaixo para clonar o repositório, instalar as dependências e ex
 
 4. Execute os testes:
    ```bash
-   npm run cypress:open
+   npm run cypress open
    ```
 
 ## Aplicação Testada
