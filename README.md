@@ -1,6 +1,6 @@
 # Testes Automatizados com Cypress
 
-Este repositório contém testes automatizados desenvolvidos com [Cypress](https://www.cypress.io/) para validar as funcionalidades principais de uma aplicação de agenda de contatos. O objetivo é garantir a confiabilidade das operações de inclusão, alteração e remoção de contatos.
+Esta branch contém testes automatizados desenvolvidos com [Cypress](https://www.cypress.io/) para validar as funcionalidades principais de uma aplicação de agenda de contatos. O objetivo é garantir a confiabilidade das operações de inclusão, alteração e remoção de contatos.
 
 ## Funcionalidades Testadas
 
